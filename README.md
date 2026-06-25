@@ -1,243 +1,300 @@
-<h1 align="center">Hi 👋, I'm Sangaraju Deepika</h1>
+# <h1 align="center">Hi 👋, I'm Sangaraju Deepika</h1>
 
-<h3 align="center">B.Tech CSE | Java Developer | Full Stack Learner | Machine Learning Enthusiast</h3>
+<h3 align="center">
+💻 Java Developer | 🌐 Full Stack Learner | 🤖 Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-Passionate Computer Science student with strong problem-solving skills and experience in Java, Python, Web Development, SQL, and Machine Learning. I enjoy building practical applications and continuously learning new technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Computer Science and Engineering (2026)
+🎓 B.Tech Computer Science & Engineering (2026)
 
-💻 Interested in:
-- Java Development
-- Full Stack Web Development
-- Machine Learning
-- Software Engineering
+💡 Passionate about building software solutions using Java, Python, SQL, and Machine Learning.
 
-🌱 Currently Learning:
-- Spring Boot
-- Advanced Java
-- Data Structures & Algorithms
-- SQL Optimization
+🌱 Currently Learning
 
-📫 Reach me:
-- Email: deepika.s6973@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sangaraju-deepika-3a870427b
+* Spring Boot
+* Advanced Java
+* Data Structures & Algorithms
+* REST APIs
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-- Java
-- Python
-- C
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+### 👨‍💻 Languages
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### Backend
-- Java
-- Flask
-
-### Database
-- MySQL
-
-### Machine Learning
-- Scikit-Learn
-- XGBoost
-- Pandas
-- NumPy
-- Joblib
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Jupyter Notebook
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql"/>
+</p>
 
 ---
 
-# 🚀 Projects
+### 🌐 Frontend
 
-## 🌊 Raising Waters - Flood Prediction System
-
-Machine Learning based flood prediction system that predicts flood occurrence using rainfall and climate data.
-
-### Technologies
-- Python
-- Flask
-- HTML
-- CSS
-- XGBoost
-- Scikit-Learn
-- MySQL
-
-### Features
-- Predicts flood possibility
-- User-friendly web interface
-- Trained using multiple ML algorithms
-- XGBoost selected for highest accuracy
-
-Repository:
-https://github.com/vangmayee03/raising-waters
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+</p>
 
 ---
 
-## 😊 MoodMate - Emotional Diary Assistant
+### ⚙ Backend
 
-Desktop application that helps users record moods, maintain a diary, and receive motivational quotes.
-
-### Technologies
-- Java
-- Swing
-- File Handling
-
-### Features
-- Mood Tracking
-- Daily Diary
-- Motivational Quotes
-- Easy-to-use GUI
+<p>
+<img src="https://skillicons.dev/icons?i=java,flask"/>
+</p>
 
 ---
 
-## 🚗 Car Price Prediction
+### 🗄 Database
 
-Machine Learning project that predicts vehicle prices using regression algorithms.
-
-### Technologies
-- Python
-- Scikit-Learn
-- Pandas
-- NumPy
-
-Algorithms Used
-- Linear Regression
-- Decision Tree Regressor
-- Support Vector Regression
-
-Repository:
-https://github.com/Deepika-973/ML-based-project
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
 ---
 
-## 🍽 Restaurant Website
+### 🤖 Machine Learning
 
-Responsive restaurant website created using frontend technologies.
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-### Technologies
-- HTML
-- CSS
-- JavaScript
+✔ Scikit-Learn
 
-Features
-- Responsive Design
-- Attractive UI
-- Menu Page
-- Contact Section
+✔ Pandas
 
----
+✔ NumPy
 
-## 🌦 Weather Application
+✔ XGBoost
 
-Desktop weather application developed using Java Swing.
-
-### Technologies
-- Java
-- Swing
-
-Features
-- User-friendly GUI
-- Weather Information Display
+✔ Joblib
 
 ---
 
-## 🎮 Number Guessing Game
+### 🛠 Tools
 
-Simple Java Swing application where users guess a randomly generated number.
-
-### Technologies
-- Java
-- Swing
-
-Features
-- Random Number Generation
-- Interactive Gameplay
-- Score Display
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea"/>
+</p>
 
 ---
 
-# 💪 Skills
+# 🚀 Featured Projects
 
-✔ Object-Oriented Programming
+<table>
 
-✔ Data Structures
+<tr>
 
-✔ Core Java
+<td width="50%">
 
-✔ Advanced Java Basics
+## 🌊 Raising Waters
 
-✔ Database Management
+### Flood Prediction System
+
+✔ XGBoost
+
+✔ Flask
 
 ✔ Machine Learning
 
-✔ Problem Solving
+✔ MySQL
 
-✔ Responsive Web Design
+✔ HTML & CSS
 
-✔ Git & GitHub
+📌 Predicts flood possibility using rainfall data.
+
+</td>
+
+<td width="50%">
+
+## 😊 MoodMate
+
+### Emotional Diary Assistant
+
+✔ Java Swing
+
+✔ GUI
+
+✔ File Handling
+
+✔ Mood Tracking
+
+✔ Daily Diary
+
+📌 Desktop application for emotional wellness.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🚗 Car Price Prediction
+
+✔ Python
+
+✔ Scikit-Learn
+
+✔ Regression Models
+
+✔ Decision Tree
+
+✔ SVR
+
+📌 Predicts vehicle prices using ML algorithms.
+
+</td>
+
+<td>
+
+## 🍽 Restaurant Website
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Responsive Design
+
+📌 Modern restaurant landing page.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🌦 Weather Application
+
+✔ Java
+
+✔ Swing
+
+✔ GUI
+
+📌 Desktop weather information application.
+
+</td>
+
+<td>
+
+## 🎮 Number Guessing Game
+
+✔ Java
+
+✔ Swing
+
+✔ Random Number
+
+✔ Event Handling
+
+📌 Interactive desktop game.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📚 Coursework
+# 💻 Coding Profiles
 
-- Data Structures
-- Object Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
+<p align="left">
 
----
+<a href="https://github.com/Deepika-973">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# 📊 GitHub Stats
+<!-- Add LeetCode -->
 
-<p align="center">
+<!-- Add HackerRank -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepika-973&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika-973&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-973&layout=compact&theme=tokyonight"/>
+<!-- Add CodeChef -->
 
 </p>
 
 ---
 
-# 🤝 Connect with Me
+# 📚 Coursework
 
-GitHub:
-https://github.com/Deepika-973
+📌 Data Structures
 
-LinkedIn:
-https://www.linkedin.com/in/sangaraju-deepika-3a870427b
+📌 Object Oriented Programming
 
-Email:
-deepika.s6973@gmail.com
+📌 DBMS
+
+📌 Operating Systems
+
+📌 Computer Networks
+
+📌 Software Engineering
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepika-973&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-973&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika-973&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Java Development
+
+🏅 Machine Learning Projects
+
+🏅 Responsive Web Development
+
+🏅 Problem Solving
+
+🏅 Git & GitHub
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Deepika-973">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
